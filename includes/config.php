@@ -1,7 +1,7 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_USER', 'personal_planner');
-define('DB_PASS', '$SnoopyPlanner1$');
+define('DB_USER', '');
+define('DB_PASS', '');
 define('DB_NAME', 'personal_planner');
 
 function getDb() {
